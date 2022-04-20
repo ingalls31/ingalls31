@@ -1,5 +1,4 @@
 ### Hi there 👋
-My information:
 
 ![wlop-4se](https://user-images.githubusercontent.com/95224307/164218881-1506ea6d-5bc1-4735-a04c-58dc0cbc0b7e.jpg)
 
