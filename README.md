@@ -5,7 +5,8 @@ Facebook: https://www.facebook.com/tf.huy2839/
 
 Codeforces: https://codeforces.com/profile/huy31
 
-![wlop-21se (1)](https://user-images.githubusercontent.com/95224307/164218091-7b7078a5-964f-488f-8bd2-bdc5750a2158.jpg)
+![wlop-30se](https://user-images.githubusercontent.com/95224307/164218719-789fb888-b568-45d1-af9d-0eac586c6016.jpg)
+
 
 
 <!--
