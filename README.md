@@ -1,5 +1,6 @@
 ### Hi there 👋
-My information:\n
+My information:
+
 Facebook: https://www.facebook.com/tf.huy2839/
 
 Codeforces: https://codeforces.com/profile/huy31
