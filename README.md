@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+### Like me (｡◕‿◕｡)
 ![wlop-4se](https://user-images.githubusercontent.com/95224307/164218881-1506ea6d-5bc1-4735-a04c-58dc0cbc0b7e.jpg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duchuys31&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuys31&layout=compact)
