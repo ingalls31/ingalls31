@@ -1,15 +1,11 @@
 ### Hi you 👋
 ### Like me (｡◕‿◕｡)
-```sh
-auto eth0
-iface eth0 inet static
-ipaddress 10.10.10.10
-netmask 255.255.255.0
-gateway 10.10.10.1
-dns-nameservers 8.8.8.8
-```
-![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://user-images.githubusercontent.com/95224307/164258146-494cb75a-50ba-4076-ae33-8228ce9b6159.jpg)
 
+![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://user-images.githubusercontent.com/95224307/164258146-494cb75a-50ba-4076-ae33-8228ce9b6159.jpg)
+```
+Information:
+Facebook: [Github](https://www.facebook.com/tf.huy2839/)
+```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duchuys31&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuys31&layout=compact)
