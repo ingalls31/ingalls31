@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My information:
+Facebook: https://www.facebook.com/tf.huy2839/
+Codeforces: https://codeforces.com/profile/huy31
 <!--
 **duchuys31/duchuys31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
