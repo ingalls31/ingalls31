@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/huy31"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/m6r9p6t/t-i-xu-ng.png" alt="ICPC Global"/></a>     
+	<a href="https://icpc.global/ICPCID/DO3D9RLNRDX8"><img src="https://i.ibb.co/m6r9p6t/t-i-xu-ng.png" alt="ICPC Global"/></a>     
 	<a href="https://oj.vnoi.info/user" ><img src="https://i.ibb.co/6rdsLgz/download.png" alt="VNOI" width="100" height="50">
 </p>
   
