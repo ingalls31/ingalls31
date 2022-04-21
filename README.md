@@ -26,7 +26,7 @@ Drawn by W.L.O.P
 <!-- 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a> -->
 </p>
 
-## 🛠️ My Skills
+<!-- ## 🛠️ My Skills
 ### 👉 Programming languages
 
 <p align="center"> 
@@ -57,7 +57,7 @@ Drawn by W.L.O.P
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-
+ -->
 ##
 ### Here's my github README stats:
 <!-- ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical)  -->
