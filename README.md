@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Tran+Duc+Huy!;May+I+help+you;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Tran+Duc+Huy!;May+I+help+you+?;)](https://git.io/typing-svg)
 ```
 Drawn by W.L.O.P
 ```
