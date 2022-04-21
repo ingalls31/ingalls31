@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Tran+Duc+Huy!;May+I+help+you;)](https://git.io/typing-svg)
 ```
 Drawn by W.L.O.P
@@ -6,6 +7,10 @@ Drawn by W.L.O.P
 ##
 ##
 
+<!-- ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical)  -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duchuys31&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duchuys31&theme=radical)](https://git.io/streak-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuys31&langs_count=10&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=duchuys31)](https://github.com/ryo-ma/github-profile-trophy)
 
