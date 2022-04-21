@@ -6,7 +6,7 @@ Drawn by W.L.O.P
 ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://user-images.githubusercontent.com/95224307/164258146-494cb75a-50ba-4076-ae33-8228ce9b6159.jpg)
 ##
 ##
-
+### Here's my github README stats:
 <!-- ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical)  -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duchuys31&show_icons=true&theme=radical)
