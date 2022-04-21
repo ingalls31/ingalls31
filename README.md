@@ -58,8 +58,8 @@ Drawn by W.L.O.P
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
  -->
-##
-### Here's my github README stats:
+<!-- ## -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Here's my github README stats:
 <!-- ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical)  -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duchuys31&show_icons=true&theme=radical)
