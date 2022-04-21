@@ -65,5 +65,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duchuys31&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duchuys31&theme=radical)](https://git.io/streak-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuys31&langs_count=10&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=duchuys31)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=duchuys31&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
