@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Tran+Duc+Huy!;May+I+help+you+?;)](https://git.io/typing-svg)
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> Drawn by W.L.O.P
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> Drawn by W L O P
 
 ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://user-images.githubusercontent.com/95224307/164258146-494cb75a-50ba-4076-ae33-8228ce9b6159.jpg)
 ## <img src="https://user-images.githubusercontent.com/63050133/156775623-d7ba7abb-a29f-43fc-b910-334027773a97.png" width=40> My Competitive Programming Profiles
