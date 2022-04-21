@@ -26,3 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuys31&langs_count=10&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=duchuys31&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+ ## ⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/duchuys31"><img alt="Huy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=duchuys31&custom_title=duchuys31's%20Contribution%20Graph&theme=radical" /></a>
+  <br/>
