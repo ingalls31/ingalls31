@@ -4,7 +4,7 @@
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> Drawn by W L O P
 
 ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://user-images.githubusercontent.com/95224307/164258146-494cb75a-50ba-4076-ae33-8228ce9b6159.jpg)
-## 👀 My Competitive Programming Profiles
+## 👀 My Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/huy31"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
