@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/huy31"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://icpc.global/ICPCID/DO3D9RLNRDX8"><img src="https://i.ibb.co/m6r9p6t/t-i-xu-ng.png" alt="ICPC Global"/></a>     
-	<a href="https://oj.vnoi.info/user/huys31" ><img src="https://i.ibb.co/6rdsLgz/download.png" alt="VNOI" width="100" height="50">
+	<a href="https://icpc.global/ICPCID/DO3D9RLNRDX8"><img src="https://i.ibb.co/TkFr8p5/removal-ai-tmp-6263e6ed1dc0e-1.pnghttps://i.ibb.co/F4h8h5Z/removal-ai-tmp-6263e77642d26-1.pnghttps://i.ibb.co/F4h8h5Z/removal-ai-tmp-6263e77642d26-1.png" alt="ICPC Global"/></a>     
+	<a href="https://oj.vnoi.info/user/huys31" ><img src="https://i.ibb.co/TkFr8p5/removal-ai-tmp-6263e6ed1dc0e-1.png" alt="VNOI" width="100" height="50">
 	<a href="https://drive.google.com/file/d/1kNnWVGgaUS-IkM80B9xVpEJmoQGsRhfZ/view?fbclid=IwAR1x3okzKpaguyyFY5ExzMsDx1pYsayXbiHahWKyQgomfIZCyJsQYVLwJYk" ><img src="https://i.ibb.co/j3FvgGk/Black-Samsung-Logo-1024x340.png" alt="SamSung" width="100" height="50">
 </p>
   
