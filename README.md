@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Tran+Duc+Huy!;Can+I+help+you+?;)](https://git.io/typing-svg)
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> Drawn by W L O P
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 70> Drawn by W L O P
 
 ![df2u67r-ca6bc40e-397c-425a-b31d-a548da7c6fdc](https://user-images.githubusercontent.com/95224307/164258146-494cb75a-50ba-4076-ae33-8228ce9b6159.jpg)
 ## 👀 My Programming Profiles
@@ -14,7 +14,7 @@
 	<a href="https://drive.google.com/file/d/1kNnWVGgaUS-IkM80B9xVpEJmoQGsRhfZ/view?fbclid=IwAR1x3okzKpaguyyFY5ExzMsDx1pYsayXbiHahWKyQgomfIZCyJsQYVLwJYk" ><img src="https://i.ibb.co/j3FvgGk/Black-Samsung-Logo-1024x340.png" alt="SamSung" width="140" height="50">
 </p>
   
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="70"> Connect with me
 <p align="center">
 	<a href="mailto:ahmed.huy52670@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/duchuys31"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -22,7 +22,7 @@
 	<a href="https://www.instagram.com/huytt28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Here's my github  stats:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Here's my github  stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duchuys31&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duchuys31&theme=radical)](https://git.io/streak-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duchuys31&langs_count=10&theme=radical)
