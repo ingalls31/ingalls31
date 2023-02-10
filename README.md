@@ -44,7 +44,7 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=duchuys31&show_icons=true&locale=en&layout=compact"
                 alt="duchuys31" width="30%" height="10%" /></p>
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duchuys31&"
-                alt="duchuys31" width="30%" height="10%"/>
+                alt="duchuys31" width="30%" height="30%"/>
         </p>
 
 </div>
