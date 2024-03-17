@@ -9,6 +9,8 @@ Hi 👋, I'm Tran Duc Huy - A developer from VietNam<br>🔭 I’m currently wor
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=duchuys31&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duchuys31&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=duchuys31&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 150px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=duchuys31&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="height: 150px;" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuys31&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 525px;" />
 
 
