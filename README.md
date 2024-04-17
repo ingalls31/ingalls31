@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Tran Duc Huy - A developer from VietNam<br>🔭 I’m currently working on Post and Telecommunications Institute of Technology<br>📫 How to reach me huy52670@gmail.com
+Hi 👋, I'm Tran Duc Huy - A developer from VietNam<br>📫 How to reach me huy52670@gmail.com
 
 
 ## 🌐 Socials:
