@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### Hi 👋, I'm Tran Duc Huy - A Software Developer from VietNam
+### Hi 👋, I'm Tran Duc Huy - A Developer From VietNam
 
 
 ## 🌐 Socials:
