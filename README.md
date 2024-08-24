@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi 👋, I'm Tran Duc Huy
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+%F0%9F%91%8B%2C+I'm+Tran+Duc+Huy;I'm+a+Software+Engineer+from+VietNam" alt="Typing SVG" />
 
 <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 </h1>
